@@ -72,7 +72,7 @@
 }
 
 .btn1{
-    width: 40%;
+    width: 50%;
     height: 35px;
     color: white;
     background-color: rgb(255, 94, 0);
@@ -82,7 +82,7 @@
 }
 
 .mail{
-    width: 60%;
+    width: 50%;
     height: 35px;
     color: black;
     outline: none;
